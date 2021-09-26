@@ -1,17 +1,29 @@
-body{
-  font-family: Georgia;
+.elso {
+  border: 10px solid rgb(214, 121, 15);
+  background-color: cyan;
+  width: 600px;
+  text-align: left;
 }
-
-p2 {
-  font-size:120%;
-  position: inherit;
+.masodik {
+  border: 5px solid LimeGreen;
+  background-color: plum;
+  width: 610px;
+  color: Khaki;
 }
-h1{
-  font-size:2vw;
-  margin-bottom: 15px;
+.harmadik {
+  background-color: darkgray;
+  width: 620px;
+  color: White;
 }
-.also{
-  text-align: center;
-  position: relative;
-  left: -580px;
+.negyedik {
+  border: 3px solid mediumslateblue;
+  background-color: navajowhite;
+  color: darkgray;
+  width: 614px;
+}
+.otodik {
+  border: 2.5px solid yellowgreen;
+  background-color: #cefdce;
+  color: MediumPurple;
+  width: 615px;
 }
