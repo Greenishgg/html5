@@ -1,0 +1,17 @@
+body{
+  font-family: Georgia;
+}
+
+p2 {
+  font-size:120%;
+  position: inherit;
+}
+h1{
+  font-size:2vw;
+  margin-bottom: 15px;
+}
+.also{
+  text-align: center;
+  position: relative;
+  left: -580px;
+}
